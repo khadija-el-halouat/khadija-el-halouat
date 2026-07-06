@@ -17,4 +17,4 @@ Instrumentation : oscilloscope, multimètre, soudure
 
 LinkedIn → linkedin.com/in/khadija-el-halouat-974092403
 Email → khadija.elhalouat07@gmail.com
-Portfolio → https://khadija-el-halouat.github.io
+Portfolio → https://github.com/khadija-el-halouat/khadija-el-halouat.github.io.git
