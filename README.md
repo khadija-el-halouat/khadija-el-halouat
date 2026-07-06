@@ -9,11 +9,8 @@ Bonjour 👋
 Langages : C, Python
 
 Microcontrôleurs & cartes : Arduino, ESP32, FPGA (Cyclone II)
-
 Logiciels : Quartus II, PSIM, MATLAB, Arduino IDE, MPLAB X, GP PRO EX, M3 Soft
-
 Savoir-faire : logique combinatoire/séquentielle, commande moteur (PWM), électronique de puissance, capteurs & actionneurs, automatisme (Grafcet)
-
 Instrumentation : oscilloscope, multimètre, soudure
 
 📮 Me contacter:
