@@ -1,16 +1,23 @@
-## Hi there 👋
+Bonjour 👋
 
-<!--
-**khadija-el-halouat/khadija-el-halouat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Khadija EL HALOUAT | Étudiante en Électronique et Systèmes Embarqués
 
-Here are some ideas to get you started:
+Étudiante en BUT Génie Électrique et Informatique Industrielle (GEII) à l'Université Sorbonne Paris Nord, majore de promotion. Passionnée par l'électronique et les systèmes embarqués, je recherche une alternance de 24 mois (rythme 15 jours entreprise / 15 jours université) à partir du 08/09/2026 pour mettre mes compétences techniques au service de projets concrets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Ma boîte à outils:
+
+Langages : C, Python
+
+Microcontrôleurs & cartes : Arduino, ESP32, FPGA (Cyclone II)
+
+Logiciels : Quartus II, PSIM, MATLAB, Arduino IDE, MPLAB X, GP PRO EX, M3 Soft
+
+Savoir-faire : logique combinatoire/séquentielle, commande moteur (PWM), électronique de puissance, capteurs & actionneurs, automatisme (Grafcet)
+
+Instrumentation : oscilloscope, multimètre, soudure
+
+📮 Me contacter:
+
+LinkedIn  → linkedin.com/in/khadija-el-halouat-974092403
+Email     → khadija.elhalouat07@gmail.com
+Portfolio → khadija-el-halouat.github.io
