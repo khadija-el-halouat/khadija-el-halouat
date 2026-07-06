@@ -15,6 +15,7 @@ Instrumentation : oscilloscope, multimètre, soudure
 
 📮 Me contacter :
 
-LinkedIn → linkedin.com/in/khadija-el-halouat-974092403
-Email → khadija.elhalouat07@gmail.com
+LinkedIn : https://www.linkedin.com/in/khadija-el-halouat-974092403
+
+Email : khadija.elhalouat07@gmail.com
 
