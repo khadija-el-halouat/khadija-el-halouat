@@ -9,7 +9,7 @@ Je suis ouverte aux opportunités techniques en **stage ou en alternance**, nota
 
 ## 🧰 Compétences techniques
 
-- **Électronique analogique et numérique :** filtrage, composants électroniques, logique combinatoire et séquentielle, conception et simulation de circuits.
+- **Électronique analogique et numérique :** traitement du signal, étude et dimensionnement de filtres électroniques, analyse de la réponse fréquentielle, composants électroniques, logique combinatoire et séquentielle, conception et simulation de circuits.
 - **Électrotechnique et puissance :** commande moteur par PWM, convertisseurs statiques, étude de systèmes électriques.
 - **Essais, mesures et instrumentation :** oscilloscope, multimètre, générateur basse fréquence (GBF), analyse des résultats et validation expérimentale.
 - **Câblage et prototypage :** lecture de schémas, assemblage, soudure, mise au point et débogage.
@@ -29,7 +29,6 @@ Quartus II · ModelSim · PSIM · MATLAB · LTspice · LabVIEW · MPLAB X · Ard
 | [Robot aspirateur autonome](https://github.com/khadija-el-halouat/Robot-aspirateur-Roomba-) | Détection d’obstacles et logique de déplacement | Arduino, C, capteurs infrarouges |
 | [Système d’alarme numérique](https://github.com/khadija-el-halouat/Alarme) | Conception et simulation d’une logique de sécurité | FPGA, Quartus II, logique numérique |
 | [Vélo à assistance électrique](https://github.com/khadija-el-halouat/Velo-assistance-electrique) | Étude de la commande PWM et mesures d’un système moteur | PSIM, PWM, oscilloscope, multimètre |
-| **Traitement du signal & filtrage électronique** | Dimensionnement et câblage d’un filtre, mesure de la réponse fréquentielle et analyse des signaux | GBF, oscilloscope, composants électroniques |
 
 ## 🌐 Portfolio
 
