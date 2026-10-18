@@ -29,6 +29,7 @@ Quartus II · ModelSim · PSIM · MATLAB · LTspice · LabVIEW · MPLAB X · Ard
 | [Robot aspirateur autonome](https://github.com/khadija-el-halouat/Robot-aspirateur-Roomba-) | Détection d’obstacles et logique de déplacement | Arduino, C, capteurs infrarouges |
 | [Système d’alarme numérique](https://github.com/khadija-el-halouat/Alarme) | Conception et simulation d’une logique de sécurité | FPGA, Quartus II, logique numérique |
 | [Vélo à assistance électrique](https://github.com/khadija-el-halouat/Velo-assistance-electrique) | Étude de la commande PWM et mesures d’un système moteur | PSIM, PWM, oscilloscope, multimètre |
+| **Traitement du signal & filtrage électronique** | Dimensionnement et câblage d’un filtre, mesure de la réponse fréquentielle et analyse des signaux | GBF, oscilloscope, composants électroniques |
 
 ## 🌐 Portfolio
 
