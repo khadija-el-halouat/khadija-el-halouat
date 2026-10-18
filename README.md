@@ -31,6 +31,25 @@ Quartus II · ModelSim · PSIM · MATLAB · LTspice · LabVIEW · MPLAB X · Ard
 | [Vélo à assistance électrique](https://github.com/khadija-el-halouat/Velo-assistance-electrique) | Étude de la commande PWM et mesures d’un système moteur | PSIM, PWM, oscilloscope, multimètre |
 | **Traitement du signal & filtrage électronique** | Étude et dimensionnement d’un filtre, câblage du circuit, mesure de la réponse fréquentielle et analyse des signaux | GBF, oscilloscope, composants électroniques |
 
+
+### 🔬 Traitement du signal & filtrage électronique
+
+**Objectif :** étudier le comportement d’un filtre électronique et caractériser sa réponse en fréquence afin de comprendre quelles composantes du signal sont transmises ou atténuées.
+
+**Étapes de réalisation**
+1. **Analyse du besoin :** identifier les caractéristiques du signal et les fréquences à conserver ou à atténuer.
+2. **Choix du filtre :** déterminer le type de filtre adapté à l’objectif et au cahier des charges.
+3. **Dimensionnement :** calculer les valeurs des composants et estimer la fréquence de coupure lorsque cela s’applique.
+4. **Simulation :** modéliser le circuit sous **LTspice** pour étudier son comportement théorique.
+5. **Montage :** réaliser le câblage du circuit et vérifier les connexions.
+6. **Mesures expérimentales :** utiliser un **GBF** pour appliquer des signaux à différentes fréquences et un **oscilloscope** pour observer le signal de sortie.
+7. **Analyse et validation :** relever les mesures, étudier l’évolution du gain selon la fréquence et comparer les résultats expérimentaux aux résultats théoriques.
+
+**Logiciel et matériel :** LTspice (simulation, si utilisé pour cette réalisation), générateur basse fréquence (GBF), oscilloscope et composants électroniques.
+
+**Compétences mobilisées :** électronique analogique, traitement du signal, dimensionnement de composants, câblage, instrumentation et analyse de mesures.
+
+
 ## 🌐 Portfolio
 
 Consultez [mon portfolio en ligne](https://khadija-el-halouat.github.io/khadija-el-halouat-portfolio/) pour découvrir mon parcours et mes réalisations.
