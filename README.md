@@ -27,8 +27,9 @@ Quartus II · ModelSim · PSIM · MATLAB · LTspice · LabVIEW · MPLAB X · Ard
 |---|---|---|
 | [Station météo connectée](https://github.com/khadija-el-halouat/Station-meteo) | Acquisition de données environnementales, communication Wi-Fi et affichage | ESP32, C, capteurs, API Web |
 | [Robot aspirateur autonome](https://github.com/khadija-el-halouat/Robot-aspirateur-Roomba-) | Détection d’obstacles et logique de déplacement | Arduino, C, capteurs infrarouges |
-| [Système d’alarme numérique](https://github.com/khadija-el-halouat/Alarme) | Conception et simulation d’une logique de sécurité | FPGA, Quartus II, logique numérique |
+| [Système d’alarme numérique](https://github.com/khadija-el-halouat/Alarme) | Conception et simulation d’une logique de sécurité | FPGA, Quartus II, ModelSim |
 | [Vélo à assistance électrique](https://github.com/khadija-el-halouat/Velo-assistance-electrique) | Étude de la commande PWM et mesures d’un système moteur | PSIM, PWM, oscilloscope, multimètre |
+| [Traitement du signal et filtrage électronique](https://github.com/khadija-el-halouat/Traitement-du-Signal-Filtrage-lectronique) | Étude de la réponse fréquentielle d’un filtre et mesures expérimentales | Électronique analogique, GBF, oscilloscope |
 
 ## 🌐 Portfolio
 
